@@ -1,0 +1,13 @@
+[gd_resource type="TileSet" load_steps=3 format=3 uid="uid://didxphupwqtod"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_h6wg6"]
+load_path = "res://.godot/imported/Water_Middle.png-ee7aa3b9f1ba7a0553af058e0cfdf4d9.ctex"
+
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_u2wls"]
+texture = SubResource("CompressedTexture2D_h6wg6")
+0:0/0 = 0
+0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
+
+[resource]
+physics_layer_0/collision_layer = 1
+sources/2 = SubResource("TileSetAtlasSource_u2wls")

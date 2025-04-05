@@ -1,0 +1,228 @@
+{
+	"textures": [
+		{
+			"image": "Player_Anim-0.png",
+			"size": {
+				"w": 1120,
+				"h": 992
+			},
+			"sprites": [
+				{
+					"filename": "Player_Fishing_Anim.png",
+					"region": {
+						"x": 0,
+						"y": 0,
+						"w": 576,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Actions_Anim.png",
+					"region": {
+						"x": 576,
+						"y": 0,
+						"w": 288,
+						"h": 576
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Idle_Run_Death_Anim.png",
+					"region": {
+						"x": 864,
+						"y": 0,
+						"w": 256,
+						"h": 416
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Horse_Anim.png",
+					"region": {
+						"x": 0,
+						"y": 512,
+						"w": 192,
+						"h": 432
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Jump_Anim.png",
+					"region": {
+						"x": 192,
+						"y": 512,
+						"w": 384,
+						"h": 192
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Roll_Anim.png",
+					"region": {
+						"x": 864,
+						"y": 416,
+						"w": 256,
+						"h": 96
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Holding_Anim.png",
+					"region": {
+						"x": 192,
+						"y": 704,
+						"w": 192,
+						"h": 192
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Push_Anim.png",
+					"region": {
+						"x": 384,
+						"y": 704,
+						"w": 160,
+						"h": 192
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Torch_Lantern_Anim.png",
+					"region": {
+						"x": 576,
+						"y": 576,
+						"w": 192,
+						"h": 384
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Attack_Anim.png",
+					"region": {
+						"x": 768,
+						"y": 576,
+						"w": 128,
+						"h": 288
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Horse_Riding_Anim.png",
+					"region": {
+						"x": 896,
+						"y": 512,
+						"w": 192,
+						"h": 432
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Bow_Anim..png",
+					"region": {
+						"x": 192,
+						"y": 896,
+						"w": 192,
+						"h": 96
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Climb_Anim.png",
+					"region": {
+						"x": 0,
+						"y": 944,
+						"w": 192,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "Player_Boat_WIP.png",
+					"region": {
+						"x": 544,
+						"y": 704,
+						"w": 32,
+						"h": 32
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1a8d1efb59e2a242c514379bc70ba93e:9e2d4323918d00906d2d398e79c534db:d775060ff80088b52302f3b8d51009ea$"
+	}
+}
