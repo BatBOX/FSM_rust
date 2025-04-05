@@ -10,7 +10,6 @@ config_version=5
 
 [application]
 
-config/name="FSM_demo"
 run/main_scene="uid://di1jr21kofj01"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
@@ -32,7 +31,8 @@ enabled=PackedStringArray("res://addons/AS2P/plugin.cfg")
 
 folder_colors={
 "res://characters/": "orange",
-"res://scens/": "green"
+"res://scens/": "green",
+"res://主要资产/": "red"
 }
 
 [input]

@@ -1,7 +1,6 @@
 [gd_scene load_steps=56 format=3 uid="uid://cafqaws6j04vd"]
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_6p3mc"]
-load_path = "res://.godot/imported/Player_Idle_Run_Death_Anim.png-da16ff313f05477508c0e496040e073b.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_fpo3a"]
 atlas = SubResource("CompressedTexture2D_6p3mc")
@@ -124,7 +123,6 @@ atlas = SubResource("CompressedTexture2D_6p3mc")
 region = Rect2(160, 32, 32, 32)
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_dnjla"]
-load_path = "res://.godot/imported/Player_Jump_Anim.png-61c3b8989812e77a4c43cdb0b16b5054.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_gqopd"]
 atlas = SubResource("CompressedTexture2D_dnjla")
